@@ -20,3 +20,7 @@ It communicates with the FastAPI backend to manage notes.
 npm install
 ```
 
+### 2. ENV Configurations
+```bash
+NEXT_PUBLIC_API_URL = http://localhost:8000 #BACKEND_URL
+```
